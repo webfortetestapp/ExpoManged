@@ -9,6 +9,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
+      <Text>Open up App.js to start working on your app!1212</Text>
+
       <Text>Open up App.js to stytyty2</Text>
       <StatusBar style="auto" />
     </View>
